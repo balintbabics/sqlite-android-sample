@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestDatabaseApplication</string>
+    <string name="button_add_new">Add New</string>
+    <string name="button_del_first">Delete First</string>
+</resources>
